@@ -78,6 +78,9 @@ export const RESUME_DATA = {
     "Express.js",
     "Figma",
     "MongoDB",
+    "MySql",
+    "Tailwind CSS",
+    "Sass"
   ],
   projects: [
     {
@@ -137,7 +140,7 @@ export const RESUME_DATA = {
       logo: BarepapersLogo,
       link: {
         label: "erbil-center.netlify",
-        href: "https://ecw.web.app/departments",
+        href: "https://ecw.web.app",
       },
     }
   ],
